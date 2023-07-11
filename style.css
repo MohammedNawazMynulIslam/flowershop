@@ -253,3 +253,37 @@ color: white;
 .latest-deal-content{
     margin-top: 200px;
 }
+
+/* customer review */
+.review{
+    margin-top: 800px;
+    text-align: center;
+    font-weight: 800;
+}
+
+.cust-pic{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 100px;
+    box-shadow: 5px 5px 15px 5px rgb(109, 159, 252);
+}
+.customer-container{
+    height: 50vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 70px;
+    background: rgba(167, 33, 98, 0.15);
+
+}
+
+.cust-heading{
+text-align: center;
+padding: 10px;
+}
+.cust-para{
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+
+}
