@@ -41,4 +41,48 @@ margin-top: 15px;
     margin: 50px 200px 0px 90px;
 }
 
-/*  */
+/* featured flowers styles section */
+
+.feature-flower-heading{
+color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+margin-top: 150px;
+}
+.feature-flower-para{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+}
+
+.feature-flower-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.pink-flower{
+color: #272727;
+text-align: center;
+font-size: 20px;
+font-weight: 700;
+text-decoration-line: underline;
+margin-top: 40px;
+}
+.blue-flower{
+color: #272727;
+text-align: center;
+font-size: 20px;
+font-weight: 700;
+text-decoration-line: underline;
+margin-top: 100px;
+}
+.yellow-flower{
+color: #272727;
+text-align: center;
+font-size: 20px;
+font-weight: 700;
+text-decoration-line: underline;
+}
