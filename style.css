@@ -269,7 +269,7 @@ color: white;
     box-shadow: 5px 5px 15px 5px rgb(109, 159, 252);
 }
 .customer-container{
-    height: 50vh;
+    height: 30vh;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -279,11 +279,42 @@ color: white;
 }
 
 .cust-heading{
-text-align: center;
 padding: 10px;
+color: #272727;
+text-align: center;
+font-size: 30px;
+font-weight: 800;
 }
 .cust-para{
     text-align: center;
     color: rgba(39, 39, 39, 0.60);
+}
 
+/* footer */
+footer{
+    text-align: center;
+    background: #111010;
+    color: white;
+    height: 300px;
+    padding-top: 100px;
+}
+.footer-head{
+font-size: 48px;
+font-weight: 800;
+margin-bottom: 10px;
+}
+.footer-span{
+    color: #E55473;
+}
+
+.footer-para{
+color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+
+.copyright{
+    margin-top: 35px;
 }
